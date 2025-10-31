@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* ==UserStyle==
 // @name         Hide SoundCloud Visual Ads
 // @namespace    https://github.com/ZeyFoxOFF/userscript-soundcloud
@@ -11,6 +10,7 @@
 // @homepageURL  https://github.com/ZeyFoxOFF/userscript-soundcloud
 // @updateURL    https://raw.githubusercontent.com/ZeyFoxOFF/userscript-soundcloud/refs/heads/main/userscript-soundcloud.user.js
 // @downloadURL  https://raw.githubusercontent.com/ZeyFoxOFF/userscript-soundcloud/refs/heads/main/userscript-soundcloud.user.js
+// @license MIT
 ==/UserStyle== */
 
 (function() {
@@ -53,6 +53,3 @@
     `;
     GM_addStyle(CSS);
 })();
-=======
-
->>>>>>> f4bfa6de801540d66f3f5430c5e400e519be09a8
