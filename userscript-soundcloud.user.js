@@ -1,7 +1,7 @@
-/* ==UserStyle==
+// ==/UserScript==
 // @name         Hide SoundCloud Visual Ads
 // @namespace    https://github.com/ZeyFoxOFF/userscript-soundcloud
-// @version      1.0
+// @version      1.0.1
 // @description  Hide visual ads for soundcloud
 // @author       ZeyFox
 // @match        *://soundcloud.com/*
@@ -11,7 +11,7 @@
 // @updateURL    https://raw.githubusercontent.com/ZeyFoxOFF/userscript-soundcloud/refs/heads/main/userscript-soundcloud.user.js
 // @downloadURL  https://raw.githubusercontent.com/ZeyFoxOFF/userscript-soundcloud/refs/heads/main/userscript-soundcloud.user.js
 // @license MIT
-==/UserStyle== */
+// ==/UserScript==
 
 (function() {
     'use strict';
