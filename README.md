@@ -1,8 +1,8 @@
 # Hide SoundCloud Visual Ads
 
-![Greasy Fork License](https://img.shields.io/greasyfork/l/554320)
-![Greasy Fork Version](https://img.shields.io/greasyfork/v/554320)
-![Greasy Fork Downloads](https://img.shields.io/greasyfork/dt/554320)
+![Greasy Fork License](https://img.shields.io/greasyfork/l/554322)
+![Greasy Fork Version](https://img.shields.io/greasyfork/v/554322)
+![Greasy Fork Downloads](https://img.shields.io/greasyfork/dt/554322)
 
 
 This userscript hides visual ads for soundcloud.
