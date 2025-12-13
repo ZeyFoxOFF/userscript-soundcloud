@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide SoundCloud Visual Ads
 // @namespace    https://github.com/ZeyFoxOFF/userscript-soundcloud
-// @version      1.0.2
+// @version      1.0.3
 // @description  Hide visual ads for soundcloud
 // @author       ZeyFox
 // @match        *://soundcloud.com/*
@@ -9,8 +9,8 @@
 // @grant        GM_addStyle
 // @homepageURL  https://github.com/ZeyFoxOFF/userscript-soundcloud
 // @license MIT
-// @downloadURL https://update.greasyfork.org/scripts/554340/Hide%20SoundCloud%20Visual%20Ads.user.js
-// @updateURL https://update.greasyfork.org/scripts/554340/Hide%20SoundCloud%20Visual%20Ads.meta.js
+// @downloadURL https://github.com/ZeyFoxOFF/userscript-soundcloud/raw/refs/heads/main/userscript-soundcloud.user.js
+// @updateURL https://github.com/ZeyFoxOFF/userscript-soundcloud/raw/refs/heads/main/userscript-soundcloud.user.js
 // ==/UserScript==
 
 (function() {
