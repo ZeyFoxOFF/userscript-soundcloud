@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide SoundCloud Visual Ads
 // @namespace    https://github.com/ZeyFoxOFF/userscript-soundcloud
-// @version      1.0.3
+// @version      1.0.4
 // @description  Hide visual ads for soundcloud
 // @author       ZeyFox
 // @match        *://soundcloud.com/*
@@ -18,7 +18,7 @@
 
     const CSS = `
         .creatorSubscriptionsButton {
-            display: none;
+            display: none !important;
         }
         .header__upsellWrapper {
             display: none !important;
@@ -27,16 +27,19 @@
             display: none !important;
         }
         .l-product-banners {
-            display: none;
+            display: none !important;
         }
         .m-promotion {
-            display: none;
+            display: none !important;
         }
         .webiEmbeddedModule {
             display: none !important;
         }
         .m-highlight {
-          display: none !important;
+            display: none !important;
+        }
+        .sidebarModule:has(.velvetCakeIframe) {
+            display: none !important;
         }
     `;
     GM_addStyle(CSS);
