@@ -1,0 +1,24 @@
+.creatorSubscriptionsButton {
+    display: none !important;
+}
+.header__upsellWrapper {
+    display: none !important;
+}
+.mobileApps {
+    display: none !important;
+}
+.l-product-banners {
+    display: none !important;
+}
+.m-promotion {
+    display: none !important;
+}
+.webiEmbeddedModule {
+    display: none !important;
+}
+.m-highlight {
+    display: none !important;
+}
+.sidebarModule:has(.velvetCakeIframe) {
+    display: none !important;
+}
