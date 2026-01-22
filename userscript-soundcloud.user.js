@@ -41,6 +41,9 @@
         .sidebarModule:has(.velvetCakeIframe) {
             display: none !important;
         }
+        a.sc-button[href*="checkout.soundcloud.com"] {
+            display: none !important;
+        }
     `;
     GM_addStyle(CSS);
 })();
