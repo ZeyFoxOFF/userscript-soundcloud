@@ -32,7 +32,7 @@
         .m-promotion {
             display: none !important;
         }
-        .webiEmbeddedModule {
+        .webiEmbeddedModule:has([src*="embeds/credit-tracker"]) {
             display: none !important;
         }
         .m-highlight {
