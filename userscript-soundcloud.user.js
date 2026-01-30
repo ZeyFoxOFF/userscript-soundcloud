@@ -32,13 +32,16 @@
         .m-promotion {
             display: none !important;
         }
-        .webiEmbeddedModule {
+        .webiEmbeddedModule:has([src*="embeds/credit-tracker"]) {
             display: none !important;
         }
         .m-highlight {
             display: none !important;
         }
         .sidebarModule:has(.velvetCakeIframe) {
+            display: none !important;
+        }
+        a.sc-button[href*="checkout.soundcloud.com"] {
             display: none !important;
         }
     `;
