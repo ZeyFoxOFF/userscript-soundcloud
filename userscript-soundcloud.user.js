@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide SoundCloud Visual Ads
 // @namespace    https://github.com/ZeyFoxOFF/userscript-soundcloud
-// @version      1.0.4
+// @version      1.0.5
 // @description  Hide visual ads for soundcloud
 // @author       ZeyFox
 // @match        *://soundcloud.com/*
