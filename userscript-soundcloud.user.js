@@ -17,33 +17,15 @@
     'use strict';
 
     const CSS = `
-        .creatorSubscriptionsButton {
-            display: none !important;
-        }
-        .header__upsellWrapper {
-            display: none !important;
-        }
-        .mobileApps {
-            display: none !important;
-        }
-        .l-product-banners {
-            display: none !important;
-        }
-        .m-promotion {
-            display: none !important;
-        }
-        .webiEmbeddedModule:has([src*="embeds/credit-tracker"]) {
-            display: none !important;
-        }
-        .m-highlight {
-            display: none !important;
-        }
-        .sidebarModule:has(.velvetCakeIframe) {
-            display: none !important;
-        }
-        a.sc-button[href*="checkout.soundcloud.com"] {
-            display: none !important;
-        }
+        .creatorSubscriptionsButton,
+        .header__upsellWrapper,
+        .mobileApps,
+        .l-product-banners,
+        .m-promotion,
+        .webiEmbeddedModule:has([src*="embeds/credit-tracker"]),
+        .m-highlight,
+        .sidebarModule:has(.velvetCakeIframe),
+        a.sc-button[href*="checkout.soundcloud.com"],
         .streamHTUpsell {
             display: none !important;
         }
