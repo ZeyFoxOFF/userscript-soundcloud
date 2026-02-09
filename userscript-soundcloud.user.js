@@ -44,6 +44,9 @@
         a.sc-button[href*="checkout.soundcloud.com"] {
             display: none !important;
         }
+        .streamHTUpsell {
+            display: none !important;
+        }
     `;
     GM_addStyle(CSS);
 })();
